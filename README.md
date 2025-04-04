@@ -1,1 +1,2 @@
 # Desafio-Board-Tarefas
+Este projeto, concebido como resposta a um desafio de desenvolvimento, apresenta um sistema de gerenciamento de boards de tarefas robusto e flexível. Através de uma interface intuitiva, os usuários podem criar, selecionar, excluir e personalizar boards, organizando suas tarefas em colunas dinâmicas. A persistência e a migração de dados são asseguradas pela integração de Java, JDBC e Liquibase, garantindo a confiabilidade e a escalabilidade da aplicação.
